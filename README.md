@@ -62,4 +62,4 @@ Este projeto implementa um Sistema de Gerenciamento de Biblioteca em Python, apl
 
 ## 📝 (Opcional) Persistência de Dados
 
-A funcionalidade de salvar e carregar os dados do sistema em arquivos (ex: JSON, CSV) é uma melhoria opcional que pode ser implementada para manter o estado do sistema entre execuções.
+A funcionalidade de salvar e carregar os dados do sistema em arquivos (ex: JSON, CSV) é uma melhoria opcional que foi implementada para manter o estado do sistema entre execuções.
