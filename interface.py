@@ -10,7 +10,6 @@ class BibliotecaApp:
         self.root.geometry("800x600")
         self.root.resizable(False, False)
 
-        # Tema bonito
         style = tb.Style("superhero")
 
         # Notebook (abas)
